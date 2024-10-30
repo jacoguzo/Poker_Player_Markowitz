@@ -18,4 +18,5 @@ To run:
 
 
 Data Source: 
-B, David. “Outflopped.” Obfuscated Datamined Hand Histories - Outflopped, 2009, https://web.archive.org/web/20110205042259/www.outflopped.com/questions/286/obfuscated-datamined-hand-histories , 1000 NLP ONG Files
+B, David. “Outflopped.” Obfuscated Datamined Hand Histories - Outflopped, 2009, https://web.archive.org/web/20110205042259/www.outflopped.com/questions/286/obfuscated-datamined-hand-histories 
+, 1000 NLP ONG Files
